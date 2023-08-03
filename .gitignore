@@ -7,3 +7,4 @@ assests/videos/
 !app.js
 DS_Store
 *.log
+*.php
